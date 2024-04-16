@@ -3,7 +3,7 @@
 $host = "localhost";
 $user = "root";
 $pass = "";
-$dbname = "celke";
+$dbname = "cadastro-online";
 $port = 3306;
 
 try{
